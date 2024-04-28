@@ -1,0 +1,26 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/rabbits.jpg"
+  links:
+    
+    - icon: envelope
+      text: Email
+      href: "zxl774@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Zunren Liu, my english name is Jack. I am a second year PhD student of BSTP. I am glad to take this class and learn with Professor Love and all my classmates. 
+I come from Shandong, China. I like eating noodles, rice, meat, and vegetable. I like cooking, playing card game, and watching TV show. If anyone interesting in Chinese culture and want to play card game, feel free contact me through my email.
+
+# Education
+
+B.S. in Biology | Cleveland, OH | Case Western Reserve University | Class of 2022
+
+
+
